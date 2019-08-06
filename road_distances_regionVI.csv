@@ -1,0 +1,173 @@
+﻿Start Municipality,Start Province,Start Code,End Municipality,End Province,End Code,Distance (km)
+Buruanga,Aklan,60405000,Malay,Aklan,60412000,6.5
+Malay,Aklan,60412000,Nabas,Aklan,60414000,26.2
+Nabas,Aklan,60414000,Ibajay,Aklan,60406000,11.1
+Ibajay,Aklan,60406000,Tangalan,Aklan,60417000,15.2
+Nabas,Aklan,60414000,Pandan,Antique,60611000,11.5
+Tangalan,Aklan,60417000,Makato,Aklan,60411000,8.5
+Tangalan,Aklan,60417000,Numancia,Aklan,60416000,15.9
+Tangalan,Aklan,60417000,Lezo,Aklan,60408000,17.8
+Numancia,Aklan,60416000,Lezo,Aklan,60408000,7
+Numancia,Aklan,60416000,Kalibo,Aklan,60407000,4
+Kalibo,Aklan,60407000,New Washington,Aklan,60415000,10.5
+Kalibo,Aklan,60407000,Banga,Aklan,60403000,8.4
+Lezo,Aklan,60408000,Malinao,Aklan,60413000,4.5
+Banga,Aklan,60403000,Balete,Aklan,60402000,13.7
+Balete,Aklan,60402000,Altavas,Aklan,60401000,21.2
+Altavas,Aklan,60401000,Batan,Aklan,60404000,10.6
+Altavas,Aklan,60401000,Libacao,Aklan,60409000,64.3
+Libacao,Aklan,60409000,Madalag,Aklan,60410000,5
+Buruanga,Aklan,60405000,Libertad,Antique,60610000,19.6
+Libertad,Antique,60610000,Pandan,Antique,60611000,23.5
+Pandan,Antique,60611000,Sebaste,Antique,60615000,18.1
+Sebaste,Antique,60615000,Culasi,Antique,60606000,21.4
+Culasi,Antique,60606000,Tibiao,Antique,60617000,16.7
+Tibiao,Antique,60617000,Barbaza,Antique,60602000,11.7
+Barbaza,Antique,60602000,Laua-an,Antique,60609000,10
+Laua-an,Antique,60609000,Bugasong,Antique,60604000,12.4
+Bugasong,Antique,60604000,Valderrama,Antique,60618000,18
+Bugasong,Antique,60604000,Patnongon,Antique,60612000,18.1
+Patnongon,Antique,60612000,Belison,Antique,60603000,9.8
+Belison,Antique,60603000,Sibalom,Antique,60616000,10
+Sibalom,Antique,60616000,San Remigio,Antique,60614000,19.1
+Belison,Antique,60603000,San Jose,Antique,60613000,14.2
+San Jose,Antique,60613000,Hamtic,Antique,60608000,8.9
+Hamtic,Antique,60608000,Sibalom,Antique,60616000,10.9
+Hamtic,Antique,60608000,Tobias Fornier,Antique,60607000,23.4
+Tobias Fornier,Antique,60607000,Anini-y,Antique,60601000,11
+Hamtic,Antique,60608000,San Joaquin,Iloilo,63040000,37.6
+San Joaquin,Iloilo,63040000,Tobias Fornier,Antique,60607000,44.6
+San Joaquin,Iloilo,63040000,Anini-y,Antique,60601000,47.1
+San Joaquin,Iloilo,63040000,Miagao,Iloilo,63030000,14.3
+Miagao,Iloilo,63030000,Guimbal,Iloilo,63020000,12.3
+Guimbal,Iloilo,63020000,Igbaras,Iloilo,63021000,11.4
+Guimbal,Iloilo,63020000,Tigbauan,Iloilo,63045000,12
+Guimbal,Iloilo,63020000,Tubungan,Iloilo,63046000,16.6
+Guimbal,Iloilo,63020000,Leon,Iloilo,63028000,19.9
+Tigbauan,Iloilo,63045000,Leon,Iloilo,63028000,22.3
+Leon,Iloilo,63028000,Alimodian,Iloilo,63002000,12.5
+Tigbauan,Iloilo,63045000,Oton,Iloilo,63034000,23
+Oton,Iloilo,63034000,Alimodian,Iloilo,63002000,12.5
+Oton,Iloilo,63034000,San Miguel,Iloilo,63041000,9.7
+Oton,Iloilo,63034000,Pavia,Iloilo,63036000,21.3
+Oton,Iloilo,63034000,Iloilo City,Iloilo,63022000,16.6
+Iloilo City,Iloilo,63022000,Pavia,Iloilo,63036000,7.8
+Pavia,Iloilo,63036000,Santa Barbara,Iloilo,63043000,7.4
+Pavia,Iloilo,63036000,San Miguel,Iloilo,63041000,11.7
+San Miguel,Iloilo,63041000,Alimodian,Iloilo,63002000,9.5
+Santa Barbara,Iloilo,63043000,Cabatuan,Iloilo,63012000,9.2
+Cabatuan,Iloilo,63012000,Maasin,Iloilo,63029000,6.1
+Alimodian,Iloilo,63002000,Maasin,Iloilo,63029000,8.4
+Cabatuan,Iloilo,63012000,Janiuay,Iloilo,63023000,8.7
+Iloilo City,Iloilo,63022000,Leganes,Iloilo,63026000,10
+Leganes,Iloilo,63026000,Zarraga,Iloilo,63047000,8
+Zarraga,Iloilo,63047000,New Lucena,Iloilo,63032000,8.9
+New Lucena,Iloilo,63032000,Pototan,Iloilo,63037000,10.4
+Zarraga,Iloilo,63047000,Dumangas,Iloilo,63018000,13.8
+Dumangas,Iloilo,63018000,Barotac Nuevo,Iloilo,63007000,7.8
+Zarraga,Iloilo,63047000,Barotac Nuevo,Iloilo,63007000,14.6
+Barotac Nuevo,Iloilo,63007000,Pototan,Iloilo,63037000,10.7
+Pototan,Iloilo,63037000,Mina,Iloilo,63031000,8.1
+Mina,Iloilo,63031000,Janiuay,Iloilo,63023000,8.9
+Janiuay,Iloilo,63023000,Badiangan,Iloilo,63004000,1
+Badiangan,Iloilo,63004000,Lambunao,Iloilo,63025000,13.5
+Lambunao,Iloilo,63025000,Calinog,Iloilo,63013000,19.5
+Calinog,Iloilo,63013000,Passi City,Iloilo,63035000,22.1
+Passi City,Iloilo,63035000,Duenas,Iloilo,63017000,6
+Duenas,Iloilo,63017000,Pototan,Iloilo,63037000,15.9
+Pototan,Iloilo,63037000,Dingle,Iloilo,63016000,8.9
+Calinog,Iloilo,63013000,Bingawan,Iloilo,63010000,16.4
+Barotac Nuevo,Iloilo,63007000,Anilao,Iloilo,63003000,9.7
+Passi City,Iloilo,63035000,San Enrique,Iloilo,63039000,11.2
+San Enrique,Iloilo,63039000,San Rafael,Iloilo,63042000,15.7
+Anilao,Iloilo,63003000,Banate,Iloilo,63006000,9.1
+Banate,Iloilo,63006000,Barotac Viejo,Iloilo,63008000,7
+Barotac Viejo,Iloilo,63008000,San Rafael,Iloilo,63042000,16.4
+San Rafael,Iloilo,63042000,Lemery,Iloilo,63027000,14.3
+Lemery,Iloilo,63027000,Sara,Iloilo,63044000,11.1
+Sara,Iloilo,63044000,Ajuy,Iloilo,63001000,11.1
+Ajuy,Iloilo,63001000,Barotac Viejo,Iloilo,63008000,31.5
+Sara,Iloilo,63044000,Concepcion,Iloilo,63015000,12.5
+Sara,Iloilo,63044000,San Dionisio,Iloilo,63038000,13.1
+San Dionisio,Iloilo,63038000,Batad,Iloilo,63009000,10.1
+Batad,Iloilo,63009000,Estancia,Iloilo,63019000,10.8
+Batad,Iloilo,63009000,Balasan,Iloilo,63005000,9.4
+Estancia,Iloilo,63019000,Balasan,Iloilo,63005000,9.3
+Balasan,Iloilo,63005000,Carles,Iloilo,63014000,14.6
+Bingawan,Iloilo,63010000,Tapaz,Capiz,61917000,5.5
+Passi City,Iloilo,63035000,Dumarao,Capiz,61904000,22.2
+Bingawan,Iloilo,63010000,Dumalag,Capiz,61903000,14.6
+Dumarao,Capiz,61904000,Dumalag,Capiz,61903000,10.3
+Tapaz,Capiz,61917000,Jamindan,Capiz,61906000,19.5
+Jamindan,Capiz,61906000,Mambusao,Capiz,61908000,14.9
+Mambusao,Capiz,61908000,Sigma,Capiz,61916000,9.1
+Sigma,Capiz,61916000,Dao,Capiz,61902000,4.4
+Dao,Capiz,61902000,Dumalag,Capiz,61903000,16.3
+Mambusao,Capiz,61908000,Sapi-an,Capiz,61915000,9.1
+Sapi-an,Capiz,61915000,Ivisan,Capiz,61905000,12.6
+Ivisan,Capiz,61905000,Sigma,Capiz,61916000,13.7
+Ivisan,Capiz,61905000,Roxas City,Capiz,61914000,11.8
+Roxas City,Capiz,61914000,Panitan,Capiz,61910000,16.6
+Sigma,Capiz,61916000,Panitan,Capiz,61910000,15.4
+Panitan,Capiz,61910000,Pontevedra,Capiz,61912000,10.3
+Roxas City,Capiz,61914000,Panay,Capiz,61909000,7.4
+Panay,Capiz,61909000,Pontevedra,Capiz,61912000,10.9
+Panitan,Capiz,61910000,President Roxas,Capiz,61913000,21.3
+Pontevedra,Capiz,61912000,President Roxas,Capiz,61913000,17.8
+President Roxas,Capiz,61913000,Pilar,Capiz,61911000,9.9
+Pilar,Capiz,61911000,Balasan,Iloilo,63005000,8.9
+Ma-ayon,Capiz,61907000,Pontevedra,Capiz,61912000,13.5
+Ma-ayon,Capiz,61907000,Panitan,Capiz,61910000,12.9
+Ma-ayon,Capiz,61907000,Cuartero,Capiz,61901000,11
+Dao,Capiz,61902000,Cuartero,Capiz,61901000,16.9
+Cuartero,Capiz,61901000,Dumalag,Capiz,61903000,19.7
+Cuartero,Capiz,61901000,Dumarao,Capiz,61904000,19.5
+Dao,Capiz,61902000,Ma-ayon,Capiz,61907000,17.1
+Altavas,Aklan,60401000,Mambusao,Capiz,61908000,20.8
+Altavas,Aklan,60401000,Sapi-an,Capiz,61915000,17.3
+Buenavista,Guimaras,67901000,San Lorenzo,Guimaras,67904000,16.6
+Buenavista,Guimaras,67901000,Jordan,Guimaras,67902000,17.8
+San Lorenzo,Guimaras,67904000,Jordan,Guimaras,67902000,24.4
+San Lorenzo,Guimaras,67904000,Sibunag,Guimaras,67905000,19.8
+Jordan,Guimaras,67902000,Sibunag,Guimaras,67905000,20.2
+Jordan,Guimaras,67902000,Nueva Valencia,Guimaras,67903000,17.1
+Sibunag,Guimaras,67905000,Nueva Valencia,Guimaras,67903000,32.6
+San Carlos City,Negros Occidental,64524000,Calatrava,Negros Occidental,64505000,47.6
+San Carlos City,Negros Occidental,64524000,Salvador Benedicto,Negros Occidental,64532000,18.4
+Salvador Benedicto,Negros Occidental,64532000,Calatrava,Negros Occidental,64505000,40.3
+Calatrava,Negros Occidental,64505000,Toboso,Negros Occidental,64529000,19.8
+Toboso,Negros Occidental,64529000,Escalante City,Negros Occidental,64509000,18.2
+Salvador Benedicto,Negros Occidental,64532000,Sagay City,Negros Occidental,64523000,56.8
+Escalante City,Negros Occidental,64509000,Sagay City,Negros Occidental,64523000,14.5
+Sagay City,Negros Occidental,64523000,Cadiz City,Negros Occidental,64504000,19.1
+Cadiz City,Negros Occidental,64504000,Manapla,Negros Occidental,64518000,30.5
+Manapla,Negros Occidental,64518000,Victorias City,Negros Occidental,64531000,9.3
+Victorias City,Negros Occidental,64531000,Enrique B. Magalona,Negros Occidental,64508000,13.8
+Enrique B. Magalona,Negros Occidental,64508000,Silay City,Negros Occidental,64526000,9.9
+Silay City,Negros Occidental,64526000,Talisay City,Negros Occidental,64528000,22.7
+Talisay City,Negros Occidental,64528000,Bacolod City,Negros Occidental,64501000,8
+Bacolod City,Negros Occidental,64501000,Murcia,Negros Occidental,64520000,17.8
+Murcia,Negros Occidental,64520000,Salvador Benedicto,Negros Occidental,64532000,40.3
+Bacolod City,Negros Occidental,64501000,Bago City,Negros Occidental,64502000,23.3
+Bago City,Negros Occidental,64502000,Pulupandan,Negros Occidental,64522000,5
+Pulupandan,Negros Occidental,64522000,Valladolid,Negros Occidental,64530000,5
+Valladolid,Negros Occidental,64530000,San Enrique,Negros Occidental,64525000,6.3
+San Enrique,Negros Occidental,64525000,La Carlota City,Negros Occidental,64516000,8.6
+La Carlota City,Negros Occidental,64516000,Bago City,Negros Occidental,64502000,21.3
+La Carlota City,Negros Occidental,64516000,Murcia,Negros Occidental,64520000,28.5
+San Enrique,Negros Occidental,64525000,Pontevedra,Negros Occidental,64521000,6
+Pontevedra,Negros Occidental,64521000,La Castellana,Negros Occidental,64517000,21.4
+La Carlota City,Negros Occidental,64516000,La Castellana,Negros Occidental,64517000,22.4
+La Castellana,Negros Occidental,64517000,Moises Padilla,Negros Occidental,64519000,6.6
+Moises Padilla,Negros Occidental,64519000,Isabela,Negros Occidental,64514000,6.6
+Pontevedra,Negros Occidental,64521000,Hinigaran,Negros Occidental,64511000,12.6
+Hinigaran,Negros Occidental,64511000,Binalbagan,Negros Occidental,64503000,9.8
+Binalbagan,Negros Occidental,64503000,Isabela,Negros Occidental,64514000,13.9
+Binalbagan,Negros Occidental,64503000,Himamaylan City,Negros Occidental,64510000,12.5
+Himamaylan City,Negros Occidental,64510000,Kabankalan City,Negros Occidental,64515000,13.3
+Kabankalan City,Negros Occidental,64515000,Ilog,Negros Occidental,64513000,6.5
+Ilog,Negros Occidental,64513000,Cauayan,Negros Occidental,64507000,19.7
+Cauayan,Negros Occidental,64507000,Sipalay City,Negros Occidental,64527000,56.4
+Ilog,Negros Occidental,64513000,Candoni,Negros Occidental,64506000,43.2
+Candoni,Negros Occidental,64506000,Sipalay City,Negros Occidental,64527000,33.1
+Sipalay City,Negros Occidental,64527000,Hinoba-an,Negros Occidental,64512000,32.7

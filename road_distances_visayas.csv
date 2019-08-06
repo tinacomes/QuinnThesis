@@ -1,0 +1,15 @@
+﻿Start Municipality,Start Province,Start Code,End Municipality,End Province,End Code,Distance (km)
+Kalibo,Aklan,60407000,Roxas City,Capiz,61914000,85
+Kalibo,Aklan,60407000,San Jose,Antique,60613000,167.2
+Kalibo,Aklan,60407000,Iloilo City,Iloilo,63022000,185.6
+San Jose,Antique,60613000,Iloilo City,Iloilo,63022000,124.7
+Roxas City,Capiz,61914000,Iloilo City,Iloilo,63022000,137.9
+Bacolod City,Negros Occidental,64501000,Dumaguete City,Negros Oriental,74610000,181.4678928
+Borongan City,Eastern Samar,82604000,Catbalogan City,Western Samar,86005000,125.850388
+Borongan City,Eastern Samar,82604000,Catarman,Northern Samar,84805000,231.822954
+Catbalogan City,Western Samar,86005000,Catarman,Northern Samar,84805000,144.9
+Tacloban City,Leyte,83747000,Catbalogan City,Western Samar,86005000,116.2
+Tacloban City,Leyte,83747000,Borongan City,Eastern Samar,82604000,183.9
+Tacloban City,Leyte,83747000,Maasin City,Southern Leyte,86407000,174.5
+Tacloban City,Leyte,83747000,Biliran,Biliran,87802000,94.7
+Maasin City,Southern Leyte,86407000,Biliran,Biliran,87802000,192.1
